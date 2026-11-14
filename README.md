@@ -4,12 +4,12 @@ Aplicativo mobile de catálogo de receitas salgadas, desenvolvido em React Nativ
 
 ## Identificação
 
-- **Aluno(a):** [EVELYN CAMILA LIMA DE SOUZA]
-- **RGM:** [43505210]
-- **Curso:** [ADS]
-- **Disciplina:** [PROGAMAÇÃO PARA DISPOSITIVOS MÓVEIS]
-- **Professor(a):** [EULLER DA SILVA FERREIRA]
-- **Instituição:** [UNIVERSIDADE DE FRANCA, UNIFRAN]
+- **Aluno(a):** EVELYN CAMILA LIMA DE SOUZA
+- **RGM:** 43505210
+- **Curso:** ADS
+- **Disciplina:** PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS
+- **Professor(a):** EULLER DA SILVA FERREIRA
+- **Instituição:** UNIVERSIDADE DE FRANCA, UNIFRAN
 
 ## Vídeo de demonstração
 
