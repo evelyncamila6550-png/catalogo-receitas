@@ -13,7 +13,7 @@ Aplicativo mobile de catálogo de receitas salgadas, desenvolvido em React Nativ
 
 ## Vídeo de demonstração
 
-[PREENCHER LINK DO VÍDEO DE ATÉ 30 SEGUNDOS]
+[Assistir ao vídeo de demonstração](video/demonstracao.mp4)
 
 ## Telas
 
